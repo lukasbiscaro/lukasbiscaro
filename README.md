@@ -30,8 +30,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Next.JS](https://img.shields.io/badge/-Next.JS-0D1117?style=for-the-badge&logo=Next.js&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![DOCKER](https://img.shields.io/badge/-DOCKER-0D1117?style=for-the-badge&logo=DOCKER&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![REACT NATIVE](https://img.shields.io/badge/-REACT NATIVE-0D1117?style=for-the-badge&logo=react-native&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-DOCKER-0D1117?style=for-the-badge&logo=DOCKER&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
